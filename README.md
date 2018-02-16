@@ -6,7 +6,7 @@ This tutorial will walk you through deploying a three (3) node [Consul](https://
 
 * Three (3) node Consul cluster using a [StatefulSet](http://kubernetes.io/docs/concepts/abstractions/controllers/statefulsets)
 * Secure communication between Consul members using [TLS and encryption keys](https://www.consul.io/docs/agent/encryption.html)
-* Automatic tag-based automatic discovery (Continuul)
+* Tag-based automatic discovery (Continuul)
 
 ## Prerequisites
 
